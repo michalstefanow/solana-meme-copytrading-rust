@@ -109,8 +109,8 @@ WALLET_PRIVATE_KEY=your_wallet_private_key
 
 ```bash
 # Clone the repository
-git clone https://github.com/michalstefanow/solana-copytrading-bot.git
-cd solana-copytrading-bot
+git clone https://github.com/michalstefanow/solana-meme-copytrading-rust.git
+cd solana-meme-copytrading-rust
 
 # Build the project
 cargo build --release
